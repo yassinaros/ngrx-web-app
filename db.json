@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "printer",
+      "price": 900,
+      "quantity": 7,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "printer",
+      "price": 900,
+      "quantity": 7,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "tools",
+      "price": 8,
+      "quantity": 3,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "nails",
+      "price": 10,
+      "quantity": 3,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "cola",
+      "price": 9,
+      "quantity": 30,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "bro",
+      "price": 88,
+      "quantity": 9,
+      "selected": true,
+      "available": false,
+      "id": 3
+    }
+  ]
+}
